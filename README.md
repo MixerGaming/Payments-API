@@ -1,2 +1,2 @@
-# payments-api
+# Payments API
 Payments API documentation
